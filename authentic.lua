@@ -1,1 +1,1 @@
-https://l00x.org/zXeAH
+print("test nigaa")
