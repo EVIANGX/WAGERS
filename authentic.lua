@@ -1,1 +1,1 @@
-print("test nigaa")
+print("loxas krc")
